@@ -1,0 +1,33 @@
+{
+   "title":"[Esuke] Somehow, I'm Living With a Bronze High School Elf",
+   "description":"",
+   "author":"Esuke",
+   "artist":"Esuke",
+   "cover":"https://i.imgur.com/mclfkIw.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/fdrEkZz"
+         },
+         "last_updated":1624606143,
+         "title":"Somehow, I'm Living With a Bronze High School Elf",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/1NDohuP"
+         },
+         "last_updated":1624606143,
+         "title":"Living With a Naughty, Bronze High School Elf 1",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/64Eve3z"
+         },
+         "last_updated":1624606143,
+         "title":"Living With a Naughty, Bronze High School Elf 2",
+         "volume":"3"         
+      }
+   }
+}
