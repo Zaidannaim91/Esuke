@@ -1,0 +1,33 @@
+{
+   "title":"[Esuke] Tapestry",
+   "description":"",
+   "author":"Esuke",
+   "artist":"Esuke",
+   "cover":"https://i.imgur.com/fHSgwha.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/VjsOeT5"
+         },
+         "last_updated":1624606143,
+         "title":"Tapestry 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/fgE27p1"
+         },
+         "last_updated":1624606143,
+         "title":"Tapestry 1.5",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/jeSZrGa"
+         },
+         "last_updated":1624606143,
+         "title":"Tapestry 2",
+         "volume":"3"         
+      }
+   }
+}
