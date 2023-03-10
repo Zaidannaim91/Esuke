@@ -1,0 +1,33 @@
+{
+   "title":"[Esuke] Dream Application",
+   "description":"",
+   "author":"Esuke",
+   "artist":"Esuke",
+   "cover":"https://i.imgur.com/6iYgIoM.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/NaY6vaV"
+         },
+         "last_updated":1624606143,
+         "title":"Dream Application #1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/HZOKtgh"
+         },
+         "last_updated":1624606143,
+         "title":"Dream Application #2",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/HSZZ8Be"
+         },
+         "last_updated":1624606143,
+         "title":"Dream Application #3",
+         "volume":"3"         
+      }
+   }
+}
