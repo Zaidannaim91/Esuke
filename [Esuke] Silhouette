@@ -1,0 +1,33 @@
+{
+   "title":"[Esuke] Silhouette",
+   "description":"",
+   "author":"Esuke",
+   "artist":"Esuke",
+   "cover":"https://i.imgur.com/kBLIbUU.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/o3D31p6"
+         },
+         "last_updated":1624606143,
+         "title":"Silhouette",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/cNryHxa"
+         },
+         "last_updated":1624606143,
+         "title":"Silhouette 2x2",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/6J0ODkq"
+         },
+         "last_updated":1624606143,
+         "title":"Silhouette 3",
+         "volume":"3"         
+      }
+   }
+}
