@@ -1,0 +1,41 @@
+{
+   "title":"[Esuke] Dolls",
+   "description":"",
+   "author":"Esuke",
+   "artist":"Esuke",
+   "cover":"https://i.imgur.com/VsYpSeu.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/BNfI0kP"
+         },
+         "last_updated":1624606143,
+         "title":"Dolls #1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/jNm1eM9"
+         },
+         "last_updated":1624606143,
+         "title":"Dolls #2",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/K6v41AO"
+         },
+         "last_updated":1624606143,
+         "title":"Dolls #3",
+         "volume":"3"         
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/HTeAMNa"
+         },
+         "last_updated":1624606143,
+         "title":"Dolls ~After Story~",
+         "volume":"4"         
+      }
+   }
+}
