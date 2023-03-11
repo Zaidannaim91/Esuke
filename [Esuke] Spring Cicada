@@ -1,0 +1,25 @@
+{
+   "title":"[Esuke] Spring Cicada",
+   "description":"",
+   "author":"Esuke",
+   "artist":"Esuke",
+   "cover":"https://i.imgur.com/fQkVX4K.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/FNfZoSH"
+         },
+         "last_updated":1624606143,
+         "title":"Spring Cicada Ch.1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/7a2LFvh"
+         },
+         "last_updated":1624606143,
+         "title":"Spring Cicada Ch.2",
+         "volume":"2"         
+      }
+   }
+}
